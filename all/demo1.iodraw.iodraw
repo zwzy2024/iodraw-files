@@ -133,8 +133,8 @@
         <mxCell id="TU3rh1p7V1iyqHXKYOwh-1" value="读者号" style="ellipse;whiteSpace=wrap;html=1;align=center;fontStyle=4;" vertex="1" parent="1">
           <mxGeometry x="180" y="290" width="60" height="55" as="geometry" />
         </mxCell>
-        <mxCell id="TU3rh1p7V1iyqHXKYOwh-2" value="读者号" style="ellipse;whiteSpace=wrap;html=1;align=center;fontStyle=4;" vertex="1" parent="1">
-          <mxGeometry x="190" y="300" width="60" height="55" as="geometry" />
+        <mxCell id="TU3rh1p7V1iyqHXKYOwh-2" value="书号" style="ellipse;whiteSpace=wrap;html=1;align=center;fontStyle=4;" vertex="1" parent="1">
+          <mxGeometry x="540" y="280" width="60" height="55" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
