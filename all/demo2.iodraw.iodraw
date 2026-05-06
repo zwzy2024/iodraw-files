@@ -64,18 +64,18 @@
         </mxCell>
         <mxCell id="dyHMy0ClnoNTbgkHoln5-26" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="460" y="350" as="sourcePoint" />
-            <mxPoint x="620" y="350" as="targetPoint" />
+            <mxPoint x="185" y="530" as="sourcePoint" />
+            <mxPoint x="345" y="530" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="dyHMy0ClnoNTbgkHoln5-28" value="Attribute" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="170" y="210" width="50" height="40" as="geometry" />
         </mxCell>
         <mxCell id="dyHMy0ClnoNTbgkHoln5-29" value="Attribute" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="180" y="220" width="50" height="40" as="geometry" />
+          <mxGeometry x="610" y="450" width="50" height="40" as="geometry" />
         </mxCell>
         <mxCell id="dyHMy0ClnoNTbgkHoln5-30" value="Attribute" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="190" y="230" width="50" height="40" as="geometry" />
+          <mxGeometry x="389" y="450" width="50" height="40" as="geometry" />
         </mxCell>
         <mxCell id="dyHMy0ClnoNTbgkHoln5-31" value="Attribute" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="580" y="210" width="50" height="40" as="geometry" />
