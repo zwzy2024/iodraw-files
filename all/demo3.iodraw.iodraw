@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="q93S5UT9dOISH1Toe-TR-1" value="Entity" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="210" y="350" width="100" height="40" as="geometry" />
+          <mxGeometry x="160" y="450" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="q93S5UT9dOISH1Toe-TR-2" value="Entity" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="460" y="350" width="100" height="40" as="geometry" />
@@ -48,6 +48,9 @@
         </mxCell>
         <mxCell id="q93S5UT9dOISH1Toe-TR-12" value="Relationship" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="330" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="q93S5UT9dOISH1Toe-TR-13" value="Relationship" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="270" y="290" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
