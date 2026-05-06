@@ -72,7 +72,7 @@
         <mxCell id="3LZwMGnG42Ki14QH9Zau-19" value="Attribute" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="480" y="110" width="50" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="3LZwMGnG42Ki14QH9Zau-20" value="Attribute" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+        <mxCell id="3LZwMGnG42Ki14QH9Zau-20" value="归还日期" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="450" y="310" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="3LZwMGnG42Ki14QH9Zau-21" value="j借出日期" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
