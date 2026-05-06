@@ -13,10 +13,13 @@
         <mxCell id="3LZwMGnG42Ki14QH9Zau-11" value="Relationship" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="360" y="190" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="3LZwMGnG42Ki14QH9Zau-14" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="3LZwMGnG42Ki14QH9Zau-14" value="" style="endArrow=none;html=1;rounded=0;exitX=0.95;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="3LZwMGnG42Ki14QH9Zau-11">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="250" y="430" as="sourcePoint" />
-            <mxPoint x="300" y="380" as="targetPoint" />
+            <mxPoint x="300" y="430" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="480" y="220" />
+            </Array>
           </mxGeometry>
         </mxCell>
       </root>
