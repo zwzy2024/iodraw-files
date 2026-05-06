@@ -46,7 +46,7 @@
         <mxCell id="q93S5UT9dOISH1Toe-TR-11" value="办理" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="320" y="150" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="q93S5UT9dOISH1Toe-TR-13" value="拥有" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+        <mxCell id="q93S5UT9dOISH1Toe-TR-13" value="归属" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="240" y="340" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="q93S5UT9dOISH1Toe-TR-14" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="q93S5UT9dOISH1Toe-TR-4" target="q93S5UT9dOISH1Toe-TR-11">
@@ -187,7 +187,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="q93S5UT9dOISH1Toe-TR-56" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="q93S5UT9dOISH1Toe-TR-54" target="q93S5UT9dOISH1Toe-TR-2">
+        <mxCell id="q93S5UT9dOISH1Toe-TR-56" value="n" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="q93S5UT9dOISH1Toe-TR-54" target="q93S5UT9dOISH1Toe-TR-2">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="330" y="350" as="sourcePoint" />
             <mxPoint x="490" y="350" as="targetPoint" />
