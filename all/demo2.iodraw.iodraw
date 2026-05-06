@@ -19,10 +19,16 @@
         <mxCell id="dyHMy0ClnoNTbgkHoln5-13" value="Relationship" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="475" y="360" width="90" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="dyHMy0ClnoNTbgkHoln5-15" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="dyHMy0ClnoNTbgkHoln5-15" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="dyHMy0ClnoNTbgkHoln5-12">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="280" y="310" as="sourcePoint" />
             <mxPoint x="440" y="310" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dyHMy0ClnoNTbgkHoln5-16" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="460" y="350" as="sourcePoint" />
+            <mxPoint x="620" y="350" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
