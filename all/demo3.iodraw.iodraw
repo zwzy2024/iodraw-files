@@ -11,7 +11,7 @@
           <mxGeometry x="460" y="350" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="q93S5UT9dOISH1Toe-TR-3" value="Entity" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="320" y="210" width="100" height="40" as="geometry" />
+          <mxGeometry x="330" y="240" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="q93S5UT9dOISH1Toe-TR-4" value="Entity" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="330" y="70" width="100" height="40" as="geometry" />
@@ -42,6 +42,12 @@
             <mxPoint x="330" y="350" as="sourcePoint" />
             <mxPoint x="490" y="350" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="q93S5UT9dOISH1Toe-TR-11" value="Relationship" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="320" y="150" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="q93S5UT9dOISH1Toe-TR-12" value="Relationship" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="330" y="160" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
