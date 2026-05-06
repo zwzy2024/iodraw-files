@@ -77,10 +77,10 @@
         <mxCell id="dyHMy0ClnoNTbgkHoln5-30" value="Attribute" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="380" y="460" width="50" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="dyHMy0ClnoNTbgkHoln5-31" value="Attribute" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+        <mxCell id="dyHMy0ClnoNTbgkHoln5-31" value="电话" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="570" y="210" width="50" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="dyHMy0ClnoNTbgkHoln5-32" value="部门名称" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+        <mxCell id="dyHMy0ClnoNTbgkHoln5-32" value="&lt;u&gt;部门名称&lt;/u&gt;" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="495" y="210" width="50" height="40" as="geometry" />
         </mxCell>
         <mxCell id="dyHMy0ClnoNTbgkHoln5-33" value="地区" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
