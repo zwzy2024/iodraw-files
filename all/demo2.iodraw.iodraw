@@ -7,10 +7,10 @@
         <mxCell id="dyHMy0ClnoNTbgkHoln5-9" value="职工" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="180" y="290" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="dyHMy0ClnoNTbgkHoln5-10" value="职工" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+        <mxCell id="dyHMy0ClnoNTbgkHoln5-10" value="产品" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="470" y="460" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="dyHMy0ClnoNTbgkHoln5-11" value="职工" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+        <mxCell id="dyHMy0ClnoNTbgkHoln5-11" value="销售部" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="470" y="290" width="100" height="40" as="geometry" />
         </mxCell>
       </root>
