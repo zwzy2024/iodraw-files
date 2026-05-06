@@ -13,7 +13,7 @@
         <mxCell id="dyHMy0ClnoNTbgkHoln5-11" value="销售部" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="470" y="290" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="dyHMy0ClnoNTbgkHoln5-12" value="Relationship" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+        <mxCell id="dyHMy0ClnoNTbgkHoln5-12" value="所属" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="320" y="280" width="90" height="60" as="geometry" />
         </mxCell>
         <mxCell id="dyHMy0ClnoNTbgkHoln5-13" value="Relationship" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
