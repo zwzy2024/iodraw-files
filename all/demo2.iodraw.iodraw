@@ -131,7 +131,7 @@
             <mxPoint x="620" y="350" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="_KZ99iHslAnpccTRuHVi-1" value="Attribute" style="ellipse;whiteSpace=wrap;html=1;align=center;fontStyle=4;" vertex="1" parent="1">
+        <mxCell id="_KZ99iHslAnpccTRuHVi-1" value="职工号" style="ellipse;whiteSpace=wrap;html=1;align=center;fontStyle=4;" vertex="1" parent="1">
           <mxGeometry x="150" y="360" width="60" height="50" as="geometry" />
         </mxCell>
       </root>
