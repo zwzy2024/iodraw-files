@@ -155,15 +155,6 @@
             <mxPoint x="190" y="330" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="q93S5UT9dOISH1Toe-TR-42" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="330" y="350" as="sourcePoint" />
-            <mxPoint x="490" y="350" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="q93S5UT9dOISH1Toe-TR-43" value="N" style="resizable=0;html=1;whiteSpace=wrap;align=right;verticalAlign=bottom;" connectable="0" vertex="1" parent="q93S5UT9dOISH1Toe-TR-42">
-          <mxGeometry x="1" relative="1" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
