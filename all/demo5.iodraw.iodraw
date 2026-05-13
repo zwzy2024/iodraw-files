@@ -49,10 +49,10 @@
         <mxCell id="pWGhfrp4vo6U_3VXp91n-48" value="部门编号" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="130" y="90" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="pWGhfrp4vo6U_3VXp91n-49" value="Attribute" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+        <mxCell id="pWGhfrp4vo6U_3VXp91n-49" value="部门名称" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="270" y="80" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="pWGhfrp4vo6U_3VXp91n-50" value="Attribute" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+        <mxCell id="pWGhfrp4vo6U_3VXp91n-50" value="办公地点" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="413.5" y="90" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="pWGhfrp4vo6U_3VXp91n-51" value="Relationship" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
