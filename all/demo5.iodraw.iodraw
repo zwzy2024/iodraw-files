@@ -25,7 +25,7 @@
         <mxCell id="pWGhfrp4vo6U_3VXp91n-40" value="年龄" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="600" y="360" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="pWGhfrp4vo6U_3VXp91n-41" value="Attribute" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+        <mxCell id="pWGhfrp4vo6U_3VXp91n-41" value="项目编号" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="150" y="560" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="pWGhfrp4vo6U_3VXp91n-42" value="Attribute" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
@@ -224,6 +224,12 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="230" y="390" as="sourcePoint" />
             <mxPoint x="390" y="390" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pWGhfrp4vo6U_3VXp91n-91" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="pWGhfrp4vo6U_3VXp91n-55" target="pWGhfrp4vo6U_3VXp91n-58">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="160" y="390" as="sourcePoint" />
+            <mxPoint x="320" y="390" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
