@@ -46,7 +46,7 @@
             <mxPoint x="460" y="320" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="pWGhfrp4vo6U_3VXp91n-17" value="名称" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+        <mxCell id="pWGhfrp4vo6U_3VXp91n-17" value="进入时间" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="334" y="280" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="pWGhfrp4vo6U_3VXp91n-18" value="离开时间" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
