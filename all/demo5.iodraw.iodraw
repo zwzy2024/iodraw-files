@@ -13,11 +13,11 @@
         <mxCell id="pWGhfrp4vo6U_3VXp91n-3" value="Entity" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="400" y="400" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="pWGhfrp4vo6U_3VXp91n-4" value="Relationship" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="405" y="240" width="90" height="40" as="geometry" />
+        <mxCell id="pWGhfrp4vo6U_3VXp91n-4" value="组成" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="405" y="220" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="pWGhfrp4vo6U_3VXp91n-5" value="队长" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="405" y="170" width="90" height="40" as="geometry" />
+          <mxGeometry x="405" y="160" width="90" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
