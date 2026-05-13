@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.6.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="PRZPv9jtYHyIT3D7wdcR">
-    <mxGraphModel dx="434" dy="613" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1050" dy="621" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -44,21 +44,6 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="300" y="320" as="sourcePoint" />
             <mxPoint x="460" y="320" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="pWGhfrp4vo6U_3VXp91n-17" value="进入时间" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="334" y="280" width="80" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="pWGhfrp4vo6U_3VXp91n-19" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="pWGhfrp4vo6U_3VXp91n-17" target="pWGhfrp4vo6U_3VXp91n-4">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="300" y="320" as="sourcePoint" />
-            <mxPoint x="460" y="320" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="pWGhfrp4vo6U_3VXp91n-20" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="pWGhfrp4vo6U_3VXp91n-4">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="300" y="320" as="sourcePoint" />
-            <mxPoint x="535" y="280" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="pWGhfrp4vo6U_3VXp91n-21" value="N" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="pWGhfrp4vo6U_3VXp91n-4" target="pWGhfrp4vo6U_3VXp91n-2">
