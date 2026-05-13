@@ -19,7 +19,7 @@
         <mxCell id="pWGhfrp4vo6U_3VXp91n-5" value="队长" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="405" y="160" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="pWGhfrp4vo6U_3VXp91n-7" value="组成" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+        <mxCell id="pWGhfrp4vo6U_3VXp91n-7" value="喜欢乐队" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="270" y="320" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="pWGhfrp4vo6U_3VXp91n-8" value="喜欢成员" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
