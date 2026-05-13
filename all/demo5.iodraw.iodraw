@@ -10,10 +10,10 @@
         <mxCell id="pWGhfrp4vo6U_3VXp91n-34" value="员工" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="130" y="315" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="pWGhfrp4vo6U_3VXp91n-35" value="Entity" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+        <mxCell id="pWGhfrp4vo6U_3VXp91n-35" value="实习生" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="460" y="290" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="pWGhfrp4vo6U_3VXp91n-36" value="Entity" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+        <mxCell id="pWGhfrp4vo6U_3VXp91n-36" value="项目" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="250" y="480" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="pWGhfrp4vo6U_3VXp91n-37" value="Attribute" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
